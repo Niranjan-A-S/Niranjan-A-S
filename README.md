@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niranjan-A-S
 - 👀 I’m interested in ... MERN Stack
 - 🌱 I’m currently learning ... NextJS
-- 💞️ I’m looking to collaborate on ... interresting projects.
+- 💞️ I’m looking to collaborate on ... interesting projects.
 - 📫 How to reach me ... https://www.linkedin.com/in/niranjan-as/
 
 <!---
