@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niranjan-A-S
 - 👀 I’m interested in ... FullStack Web Development
-- 🌱 I’m currently learning ... FatifyJS and OIDC
+- 🌱 I’m currently learning ... NextJS
 - 💞️ I’m looking to collaborate on ... interesting projects.
 - 📫 How to reach me ... https://www.linkedin.com/in/niranjan-as/
 
