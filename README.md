@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Niranjan-A-S! Welcome to my coding playground! 🚀
+# 👋 Hey there, I'm Niranjan-A-S! 🚀
 
 ## 👀 What I'm Into
 - Software Developer by day, dreamer by night!
@@ -15,6 +15,8 @@
 ## 📫 Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/niranjan-as/)
 - 📧 Drop me an email: niranjan0881@gmail.com
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,express,react,next,mongodb,vite,tailwind,redux,firebase,git,vscode&perline=8)](https://skillicons.dev)
 
 <!---
 Niranjan-A-S/Niranjan-A-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
