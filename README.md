@@ -2,7 +2,7 @@
 
 ## 👀 What I'm Into
 - Constantly exploring the realms of Software Development.
-- Interested in the knowing the latest trends in the technology.
+- Interested in following the latest trends in technology.
 
 ## 🌱 Currently Exploring
 - 📚 Learning the intricacies of Data Structures and Algorithms.
