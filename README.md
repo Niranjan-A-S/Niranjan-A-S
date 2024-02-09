@@ -1,12 +1,12 @@
 # 👋 Hey there, I'm Niranjan-A-S! 🚀
 
 ## 👀 What I'm Into
-- Software Developer by day, dreamer by night!
 - Constantly exploring the realms of Software Development.
+- Interested in the knowing the latest trends in the technology.
 
 ## 🌱 Currently Exploring
 - 📚 Learning the intricacies of Data Structures and Algorithms.
-- 🌐 Diving deep into the world of Computer Networks.
+- 🌐 Diving deep into the world of system design, backend architecture and containerization.
 
 ## 💼 Open for Collaboration
 - 🤝 Excited about collaborating on innovative and exciting projects.
