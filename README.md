@@ -1,4 +1,5 @@
-# 👋 Hey there, I'm Niranjan-A-S! 🚀 [Check out this!](https://niranjan-dev.vercel.app/)
+# 👋 Hey there, I'm Niranjan-A-S! 🚀 
+## [About me!](https://niranjan-dev.vercel.app/)
 
 ## 👀 What I'm Into
 - Constantly exploring the realms of Software Development.
