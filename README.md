@@ -2,11 +2,11 @@
 ## [About me!](https://niranjan-dev.vercel.app/)
 
 ## 👀 What I'm Into
-- Constantly exploring the realms of Software Development.
+- Constantly exploring the realms of Information technology and innovative applications.
 - Interested in following the latest trends in technology.
 
 ## 🌱 Currently Exploring
-- 📚 Learning the intricacies of Data Structures and Algorithms.
+- 📚 Learning the intricacies of Full Stack Software Development.
 - 🌐 Diving deep into the world of system design, backend architecture and containerization.
 
 ## 💼 Open for Collaboration
