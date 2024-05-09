@@ -1,6 +1,8 @@
 # 👋 Hey there, I'm Niranjan-A-S! 🚀 
 ## [About me!](https://niranjan-dev.vercel.app/)
 
+<a href="https://app.daily.dev/niranjan2602"><img src="https://api.daily.dev/devcards/v2/OuQJEBxKLXuZVNhFg0Hzg.png?type=wide&r=u7q" width="652" alt="Niranjan A S's Dev Card"/></a>
+
 ## 👀 What I'm Into
 - Constantly exploring the realms of Information technology and innovative applications.
 - Interested in following the latest trends in technology.
