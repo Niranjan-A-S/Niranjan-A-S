@@ -9,7 +9,7 @@
 
 ## 🌱 Currently Exploring
 - 📚 Learning the intricacies of Full Stack Software Development.
-- 🌐 Diving deep into the world of system design, backend architecture and containerization.
+- 🌐 Diving deep into the world of advanced frontend data visualization, mapping technologies and system design.
 
 ## 💼 Open for Collaboration
 - 🤝 Excited about collaborating on innovative and exciting projects.
