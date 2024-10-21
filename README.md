@@ -2,7 +2,7 @@
 ## [About me!](https://niranjan-dev.vercel.app/)
 
 <a href="https://app.daily.dev/niranjan2602"><img src="https://api.daily.dev/devcards/v2/OuQJEBxKLXuZVNhFg0Hzg.png?type=default&r=nkc" width="356" alt="Niranjan A S's Dev Card"/></a>
-[![](https://visitcount.itsvg.in/api?id=Niranjan-A-S&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 ## 👀 What I'm Into
 - Constantly exploring the realms of Information technology and innovative applications.
 - Interested in following the latest trends in technology.
