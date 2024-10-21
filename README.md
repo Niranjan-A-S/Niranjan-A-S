@@ -19,4 +19,4 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/niranjan-as/)
 - 📧 Drop me an email: niranjan0881@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,next,nodejs,express,react,docker,kubernetes,html,css,mongodb,postgres,prisma,webpack,vite,tailwind,styledcomponents,redux,firebase,git,vscode,postman&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,next,nuxt,nodejs,express,react,vue,docker,kubernetes,html,css,mongodb,postgres,prisma,webpack,vite,tailwind,styledcomponents,redux,firebase,git,vscode,postman&perline=8)](https://skillicons.dev)
