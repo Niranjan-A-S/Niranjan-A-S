@@ -7,7 +7,13 @@
 - Constantly exploring the realms of Information technology and innovative applications.
 - Interested in following the latest trends in technology.
 
-## 🌱 Currently Exploring
+## 📕 Find my tech blogs here 👇
+- [Portfolio Blog](https://niranjan-as.vercel.app/blog)
+- [Medium](https://medium.com/@niranjan0881)
+- [Hashnode](https://hashnode.com/@niranjan2602)
+- [Dev.to](https://dev.to/niranjan-as)
+
+ ## 🌱 Currently Exploring
 - 📚 Learning the intricacies of Full Stack Software Development.
 - 🌐 Diving deep into the world of advanced frontend data visualization, mapping technologies and system design.
 
