@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Niranjan-A-S! 🚀 
-## [About me!](https://niranjan-dev.vercel.app/)
+## [About me!](https://niranjan-as.vercel.app/)
 
 <a href="https://app.daily.dev/niranjan2602"><img src="https://api.daily.dev/devcards/v2/OuQJEBxKLXuZVNhFg0Hzg.png?type=default&r=nkc" width="356" alt="Niranjan A S's Dev Card"/></a>
 
