@@ -9,9 +9,7 @@
 
 ## 📕 Find my tech blogs here 👇
 - [Portfolio Blog](https://niranjan-as.vercel.app/blog)
-- [Medium](https://medium.com/@niranjan0881)
 - [Hashnode](https://hashnode.com/@niranjan2602)
-- [Dev.to](https://dev.to/niranjan-as)
 
  ## 🌱 Currently Exploring
 - 📚 Learning the intricacies of Full Stack Software Development.
